@@ -1,0 +1,16 @@
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.exe
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.deps.json
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.runtimeconfig.json
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.runtimeconfig.dev.json
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.dll
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\ref\Stephens_Dialer.dll
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\bin\Debug\net5.0\Stephens_Dialer.pdb
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.csprojAssemblyReference.cache
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.AssemblyInfoInputs.cache
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.AssemblyInfo.cs
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.csproj.CoreCompileInputs.cache
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.dll
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\ref\Stephens_Dialer.dll
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.pdb
+C:\Users\Z0eSt\source\repos\Stephens_Dialer\Stephens_Dialer\obj\Debug\net5.0\Stephens_Dialer.genruntimeconfig.cache

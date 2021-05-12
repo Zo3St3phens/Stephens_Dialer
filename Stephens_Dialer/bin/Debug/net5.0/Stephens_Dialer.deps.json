@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Stephens_Dialer/1.0.0": {
+        "runtime": {
+          "Stephens_Dialer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stephens_Dialer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
